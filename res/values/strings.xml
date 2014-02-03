@@ -3,11 +3,6 @@
 
     <string name="app_name">SimplyGPS</string>
     <string name="voice_trigger">What\'s my GPS?</string>
-    <string name="sample_gps">33, -84</string>
-    
-    <!-- Type of GPS Readout -->
-	<string name="type_sample">Sample</string>
-	<string name="type_rough">Rough</string>
-	<string name="type_fine">Fine</string>
+    <string name="sample_gps">0,0</string>
 
 </resources>
